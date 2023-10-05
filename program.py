@@ -3,7 +3,7 @@
 
 def my_function(name):
   myfunction = "Hello" + name
-  return(myfunction)
+  return myfunction
 
-  name = "World!"
+name = "World!"
 print(my_function(name))
